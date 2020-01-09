@@ -4,8 +4,8 @@ const config = {
     DATABASE: process.env.MONGODB_URI
   },
   default: {
-    SECRET: "David123",
-    DATABASE: "mongodb://localhost:27017/booksShelf"
+    SECRET: "Bepul",
+    DATABASE: "mongodb+srv://Bepul:Bepul@cluster0-lo1zs.mongodb.net/test?retryWrites=true&w=majority"
   }
 };
 
